@@ -7,6 +7,7 @@ recommendations of [keepachangelog.com](http://keepachangelog.com/).
 
 ### Breaking Changes
 
+- Drop support for ruby 1.9.3
 - The model methods deprecated in 5.2.0 have been removed. Use paper_trail.x
   instead of x.
 - `timestamp_field=` removed without replacement. It is no longer configurable. The

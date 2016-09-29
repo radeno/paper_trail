@@ -57,7 +57,7 @@ has been destroyed.
 
 | paper_trail    | branch     | tags   | ruby     | activerecord |
 | -------------- | ---------- | ------ | -------- | ------------ |
-| 6 (unreleased) | master     |        | >= 1.9.3 | >= 3.0, < 6  |
+| 6 (unreleased) | master     |        | >= 2.0.0 | >= 3.0, < 6  |
 | 5              | 5-stable   | v5.x   | >= 1.9.3 | >= 3.0, < 6  |
 | 4              | 4-stable   | v4.x   | >= 1.8.7 | >= 3.0, < 6  |
 | 3              | 3.0-stable | v3.x   | >= 1.8.7 | >= 3.0, < 5  |
